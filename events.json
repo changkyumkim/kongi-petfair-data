@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T07:45:37+09:00",
+  "updated_at": "2026-09-14T07:58:21+09:00",
   "source": "https://k-pet.co.kr/information/exhibition-scheduled-all/",
   "count": 17,
   "events": [
@@ -10,8 +10,8 @@
       "end": "2026-09-13",
       "venue": "수원메쎄",
       "detail_url": "https://k-pet.co.kr/information/exhibition-scheduled-all/26pet_suwon3/",
-      "pre_reg_url": "https://k-pet.co.kr/registration/#/pre-reg/944",
-      "pre_reg_deadline": "2026-09-10T23:59:00+09:00"
+      "pre_reg_url": null,
+      "pre_reg_deadline": null
     },
     {
       "id": "26pet_songdo",

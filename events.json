@@ -1,18 +1,8 @@
 {
-  "updated_at": "2026-09-21T08:03:23+09:00",
+  "updated_at": "2026-09-28T08:41:49+09:00",
   "source": "https://k-pet.co.kr/information/exhibition-scheduled-all/",
   "count": 17,
   "events": [
-    {
-      "id": "26pet_songdo",
-      "title": "케이펫페어 송도",
-      "start": "2026-09-18",
-      "end": "2026-09-20",
-      "venue": "송도컨벤시아",
-      "detail_url": "https://k-pet.co.kr/information/exhibition-scheduled-all/26pet_songdo/",
-      "pre_reg_url": null,
-      "pre_reg_deadline": null
-    },
     {
       "id": "26pet_daegu2",
       "title": "케이펫페어 대구",
@@ -34,14 +24,14 @@
       "pre_reg_deadline": "2026-10-08T23:59:00+09:00"
     },
     {
-      "id": "megazoo_2026-11-20",
+      "id": "26pet_megazoo2",
       "title": "메가주",
       "start": "2026-11-20",
       "end": "2026-11-22",
       "venue": "킨텍스 1전시장",
-      "detail_url": null,
-      "pre_reg_url": null,
-      "pre_reg_deadline": null
+      "detail_url": "https://k-pet.co.kr/26pet_megazoo2/",
+      "pre_reg_url": "https://megazoo.co.kr/registration/#/pre-reg/938",
+      "pre_reg_deadline": "2026-11-19T23:59:00+09:00"
     },
     {
       "id": "26pet_busan2",
@@ -170,6 +160,16 @@
       "end": "2026-09-13",
       "venue": "수원메쎄",
       "detail_url": "https://k-pet.co.kr/information/exhibition-scheduled-all/26pet_suwon3/",
+      "pre_reg_url": null,
+      "pre_reg_deadline": null
+    },
+    {
+      "id": "26pet_songdo",
+      "title": "케이펫페어 송도",
+      "start": "2026-09-18",
+      "end": "2026-09-20",
+      "venue": "송도컨벤시아",
+      "detail_url": "https://k-pet.co.kr/information/exhibition-scheduled-all/26pet_songdo/",
       "pre_reg_url": null,
       "pre_reg_deadline": null
     }

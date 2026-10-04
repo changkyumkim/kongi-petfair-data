@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T08:41:49+09:00",
+  "updated_at": "2026-10-05T08:51:57+09:00",
   "source": "https://k-pet.co.kr/information/exhibition-scheduled-all/",
   "count": 17,
   "events": [
@@ -10,8 +10,8 @@
       "end": "2026-10-04",
       "venue": "엑스코 동관",
       "detail_url": "https://k-pet.co.kr/information/exhibition-scheduled-all/26pet_daegu2/",
-      "pre_reg_url": "https://k-pet.co.kr/registration/#/pre-reg/940",
-      "pre_reg_deadline": "2026-10-01T23:59:00+09:00"
+      "pre_reg_url": null,
+      "pre_reg_deadline": null
     },
     {
       "id": "26pet_cheongju2",
